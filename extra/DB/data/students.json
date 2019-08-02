@@ -1,0 +1,26 @@
+[
+  {
+    "student_id": "s_1",
+    "name": "Lavanya",
+    "email": "lavanya.ramkumar99@gmail.com",
+    "psw": "376a2b90eefd9a127e6d5136740a39af8b0785e13fc5b165893870a0b20f8c7b"
+  },
+  {
+    "student_id": "s_2",
+    "name": "Satya",
+    "email": "satya2710reddy@gmail.com",
+    "psw": "e0a952e93b37ff45121e2c9b7f7f81b7e82dc15209f5992825456c7933078ef4"
+  },
+  {
+    "student_id": "s_3",
+    "name": "Niharika",
+    "email": "niharikapes@gmail.com",
+    "psw": "eaad936d3edcccf5dd214e02bb4065e5511ca5ac7cb2c50cd0e997f1f3fc1f4f"
+  },
+  {
+    "student_id": "s_4",
+    "name": "Nakshatra",
+    "email": "nakshatra1998@gmail.com",
+    "psw": "0ae40b41fe2caa8e9ac785de44c85036c95691972d6ff2b36712a68b532cac7b"
+  }
+]

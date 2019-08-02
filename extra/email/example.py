@@ -1,0 +1,1 @@
+import smtplib , sslsender="classschedulerpes@gmail.com"receiver="satyabhamareddy@gmail.com"#receiver = ["nakshatra1998@gmail.com","lavanya.ramkumar99@gmail.com","niharikapes@gmail.com"]s = smtplib.SMTP("smtp.gmail.com",587)s.starttls()s.login(sender, "Abcde!2345")message = "YO"s.sendmail(sender, receiver, message) s.quit() 

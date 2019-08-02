@@ -1,0 +1,26 @@
+[
+  {
+    "teacher_id": "t_1",
+    "name": "Prof. Parvati",
+    "email": "def@gmail.com",
+    "psw": "759db536a38899c5c61851715df30a19babcfa76f57e0037f34c1bae8ca2a3f0"
+  },
+  {
+    "teacher_id": "t_2",
+    "name": "Prof. Shruti",
+    "email": "mno@gmail.com",
+    "psw": "e0a952e93b37ff45121e2c9b7f7f81b7e82dc15209f5992825456c7933078ef4"
+  },
+  {
+    "teacher_id": "t_3",
+    "name": "Prof. Chitra",
+    "email": "xyz@gmail.com",
+    "psw": "759db536a38899c5c61851715df30a19babcfa76f57e0037f34c1bae8ca2a3f0"
+  },
+  {
+    "teacher_id": "t_4",
+    "name": "Prof. KVS",
+    "email": "abc@gmail.com",
+    "psw": "759db536a38899c5c61851715df30a19babcfa76f57e0037f34c1bae8ca2a3f0"
+  }
+]

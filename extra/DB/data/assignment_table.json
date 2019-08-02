@@ -1,0 +1,102 @@
+[
+  {
+    "assignment_id": "a_1",
+    "posted_by_to": "tc_1",
+    "heading": "Write Up on the Project",
+    "description": "Write Up on the Project",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_2",
+    "posted_by_to": "tc_1",
+    "heading": "IPL Analysis",
+    "description": "IPL Analysis",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_3",
+    "posted_by_to": "tc_4",
+    "heading": "Develop a game using CSS and Javascript",
+    "description": "Develop a game using CSS and Javascript",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_4",
+    "posted_by_to": "tc_5",
+    "heading": "Solve these Math Questions",
+    "description": "Solve these Math Questions",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_5",
+    "posted_by_to": "tc_6",
+    "heading": "Linear Algebra - Assignment I",
+    "description": "Linear Algebra - Assignment I",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_6",
+    "posted_by_to": "tc_2",
+    "heading": "Compiler Design Report",
+    "description": "Compiler Design Report",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_7",
+    "posted_by_to": "tc_7",
+    "heading": "Build A Flask Application",
+    "description": "Build A Flask Application",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_8",
+    "posted_by_to": "tc_8",
+    "heading": "Write Short Notes",
+    "description": "Write Short Notes",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_9",
+    "posted_by_to": "tc_3",
+    "heading": "Assignment I",
+    "description": "Assignment I",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  },
+  {
+    "assignment_id": "a_10",
+    "posted_by_to": "tc_3",
+    "heading": "Assignment II",
+    "description": "Assignment II",
+    "max_marks": 10,
+    "deadline": "2019-07-01 12:12:12",
+    "posted_on": "2019-06-01 12:12:12",
+    "files": "[file1,file2,file3]"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "course_id": "c_1",
+    "name": "Big Data"
+  },
+  {
+    "course_id": "c_2",
+    "name": "Cloud Computing"
+  },
+  {
+    "course_id": "c_3",
+    "name": "Maths"
+  }
+]

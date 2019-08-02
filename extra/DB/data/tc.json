@@ -1,0 +1,42 @@
+[
+  {
+    "tc_id": "tc_1",
+    "course_id": "c_1",
+    "teacher_id": "t_1"
+  },
+  {
+    "tc_id": "tc_2",
+    "course_id": "c_1",
+    "teacher_id": "t_4"
+  },
+  {
+    "tc_id": "tc_7",
+    "course_id": "c_1",
+    "teacher_id": "t_3"
+  },
+  {
+    "tc_id": "tc_3",
+    "course_id": "c_2",
+    "teacher_id": "t_2"
+  },
+  {
+    "tc_id": "tc_4",
+    "course_id": "c_2",
+    "teacher_id": "t_1"
+  },
+  {
+    "tc_id": "tc_8",
+    "course_id": "c_2",
+    "teacher_id": "t_4"
+  },
+  {
+    "tc_id": "tc_5",
+    "course_id": "c_3",
+    "teacher_id": "t_2"
+  },
+  {
+    "tc_id": "tc_6",
+    "course_id": "c_3",
+    "teacher_id": "t_3"
+  }
+]
