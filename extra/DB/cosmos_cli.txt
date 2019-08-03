@@ -10,7 +10,7 @@ az cosmosdb create \
 
 az cosmosdb database create \
    --name pes \
-   --db-name trial \
+   --db-name pes \
    --resource-group pes
 
 
@@ -18,9 +18,49 @@ az cosmosdb database create \
 az cosmosdb collection create \
    --collection-name students \
    --name pes \
-   --db-name trial \
+   --db-name pes \
    --resource-group pes \
    --partition-key-path /student_id \
+   --throughput 400
+
+az cosmosdb collection create \
+   --collection-name teachers \
+   --name pes \
+   --db-name pes \
+   --resource-group pes \
+   --partition-key-path /teacher_id \
+   --throughput 400
+
+az cosmosdb collection create \
+   --collection-name tc \
+   --name pes \
+   --db-name pes \
+   --resource-group pes \
+   --partition-key-path /teacher_id \
+   --throughput 400
+
+az cosmosdb collection create \
+   --collection-name student_tc \
+   --name pes \
+   --db-name pes \
+   --resource-group pes \
+   --partition-key-path /tc_id \
+   --throughput 400
+
+az cosmosdb collection create \
+   --collection-name courses \
+   --name pes \
+   --db-name pes \
+   --resource-group pes \
+   --partition-key-path /course_id \
+   --throughput 400
+
+az cosmosdb collection create \
+   --collection-name assignments \
+   --name pes \
+   --db-name pes \
+   --resource-group pes \
+   --partition-key-path /posted_by_to \
    --throughput 400
 
 az cosmosdb keys list \
