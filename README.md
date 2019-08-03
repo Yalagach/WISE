@@ -1,2 +1,2 @@
 # WISE
-pip install azure-cosmos
+pip3 install azure-cosmos
