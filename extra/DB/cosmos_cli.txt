@@ -1,4 +1,5 @@
 az account set --subscription "Azure for Students"
+az group create -l eastus -n pes
 az cosmosdb create \
    --name pes \
    --resource-group pes \
